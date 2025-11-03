@@ -1,2 +1,2 @@
 # Antenna-Positioning-Data
-Includes detection of routers with antenna anomaly labels and RSSI
+RSSI dataset of antenna with anomaly labels, collected by Wi-Fi readers
